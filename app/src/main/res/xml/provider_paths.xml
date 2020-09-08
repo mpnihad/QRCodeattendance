@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<paths xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--&lt;!&ndash;    <external-path name="external_files" path="path"/>&ndash;&gt;-->
+<!--&lt;!&ndash;    <external-path name="external_files" path="." />&ndash;&gt;-->
+<!--&lt;!&ndash;    <external-files-path name="my_images" path="/" />&ndash;&gt;-->
+
+
+
+
+
+<!--        <external-path name="external_files" path="."/>-->
+
+<!--&lt;!&ndash;        <files-path name="my_images" path="/" />&ndash;&gt;-->
+
+
+
+
+<!--</paths>-->
+<paths>
+        <external-path name="external_files" path="."/>
+</paths>

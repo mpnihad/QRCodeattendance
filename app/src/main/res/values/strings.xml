@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prayer Attendance</string>
+    <string-array name="prayers">
+        <item>--</item>
+        <item>Fajar</item>
+        <item>Duhar</item>
+        <item>Asr</item>
+        <item>Magrib</item>
+        <item>Isha</item>
+    </string-array>
+</resources>
